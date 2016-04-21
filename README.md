@@ -9,4 +9,4 @@ The server.js file is where the server will execute and run your program on a lo
 The app.js is where the classifier creates bluemix instances and instances for your program. 
 The weather_data_train.csv file is where we store the questions and whether it is a temperature or a condition question.
 
-The userID, the password, and the classifier ID have to be manually added into the app.js file since they are unique to each individual involved in Bluemix.
+The userID, the password, and the classifier ID have to be manually added into the app.js file since they are unique to each individual logged into Bluemix.
